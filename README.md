@@ -86,7 +86,7 @@ https://www.kaggle.com/datasets/prince7489/mental-health-and-social-media-balanc
 ---
 
 ## Estructura del Repositorio
-
+```text
 .
 ├── data/
 ├── logs/
@@ -98,7 +98,7 @@ https://www.kaggle.com/datasets/prince7489/mental-health-and-social-media-balanc
 ├── requirements.txt
 ├── LICENSE
 └── README.md
-
+```
 ---
 
 ## Instalación

@@ -1,4 +1,5 @@
-# Analisis_indice_felicidad# Mental Health and Social Media Balance – Machine Learning Project
+# Analisis_indice_felicidad
+# Mental Health and Social Media Balance – Machine Learning Project
 
 Este repositorio contiene un proyecto de Machine Learning y Deep Learning orientado a la clasificación de niveles de felicidad a partir de hábitos digitales y factores asociados a la salud mental. El sistema utiliza una red neuronal artificial entrenada sobre el *Mental Health and Social Media Balance Dataset* y se ejecuta dentro de un entorno contenedorizado mediante Docker.
 

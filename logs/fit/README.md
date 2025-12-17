@@ -1,4 +1,4 @@
-Carpeta de logs de entrenamiento
+# Carpeta de logs de entrenamiento
 
 Esta carpeta se utiliza para almacenar los logs generados durante el proceso de entrenamiento
 del modelo de Deep Learning.
@@ -9,7 +9,7 @@ corresponden a métricas como:
 - precisión (accuracy)
 - métricas de validación por época
 
-Uso en el proyecto
+## Uso en el proyecto
 
 Durante la ejecución del proyecto mediante Docker, TensorBoard se configura para leer los logs
 desde la siguiente ruta interna del contenedor:
@@ -18,7 +18,7 @@ desde la siguiente ruta interna del contenedor:
 
 Esta carpeta se encuentra inicialmente vacía y se llena automáticamente al entrenar el modelo.
 
-Notas importantes
+## Notas importantes
 
 - Los archivos generados en esta carpeta no deben ser modificados manualmente.
 - El contenido de esta carpeta puede variar entre ejecuciones.

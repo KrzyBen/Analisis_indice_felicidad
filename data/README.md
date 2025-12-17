@@ -27,11 +27,11 @@ Mental_Health_and_Social_Media_Balance_Dataset.csv
    dentro de esta carpeta (dataset/).
 
 ## La estructura final debe quedar de la siguiente forma:
-
+```text
 dataset/
  ├── Mental_Health_and_Social_Media_Balance_Dataset.csv
  └── README.md
-
+```
 ## Notas
 
 El dataset contiene información relacionada con hábitos digitales, bienestar subjetivo y factores
